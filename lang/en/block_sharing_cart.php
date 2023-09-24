@@ -62,6 +62,7 @@ $string['inprogess_pleasewait'] = 'Please wait…';
 $string['copy_section'] = 'Copy section';
 $string['copy_section_title'] = 'Copy selected section';
 $string['label_image_replaced_text'] = ' (Label: Image)';
+$string['subsectiondepthwarning'] = 'Requested subsections hierarchy can\'t be created, as it will produce subsections depth of {$a->depth}, which exceeds course defined subsection depth limit of {$a->depthlimit}.';
 $string['uninstalled_plugin_warning_title'] = 'This plugin is uninstalled. Trying to recover this without reinstalling the plugin: {$a} will cause errors. Restoration is disabled';
 $string['drop_here'] = 'Drop here..';
 
